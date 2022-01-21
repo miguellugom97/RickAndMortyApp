@@ -8,6 +8,7 @@
 
 package com.miguellugo.rickandmortyapp.domain
 
+import com.miguellugo.rickandmortyapp.data.model.Character
 import com.miguellugo.rickandmortyapp.data.model.Result
 import com.miguellugo.rickandmortyapp.data.network.ResultRepository
 import javax.inject.Inject
